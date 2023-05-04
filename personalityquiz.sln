@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "personalityquiz.Android", "personalityquiz\personalityquiz.Android\personalityquiz.Android.csproj", "{A47BA3DB-E0B3-4855-8494-C0E9755AB553}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "personalityquiz", "personalityquiz\personalityquiz\personalityquiz.csproj", "{80B56C2F-1B36-4076-BA85-40320AE76368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A47BA3DB-E0B3-4855-8494-C0E9755AB553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A47BA3DB-E0B3-4855-8494-C0E9755AB553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A47BA3DB-E0B3-4855-8494-C0E9755AB553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A47BA3DB-E0B3-4855-8494-C0E9755AB553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80B56C2F-1B36-4076-BA85-40320AE76368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80B56C2F-1B36-4076-BA85-40320AE76368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80B56C2F-1B36-4076-BA85-40320AE76368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80B56C2F-1B36-4076-BA85-40320AE76368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68122B14-0293-45C8-95ED-46B35F3BA47A}
+	EndGlobalSection
+EndGlobal
